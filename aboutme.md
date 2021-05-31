@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+<!-- subtitle: Why you'd want to go on a date with me--> 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Petro Skrypnyk
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- International student from Ukraine
+- 28 years old
+- Trying to determine what exactly I would like to do in my life
 
-What else do you need?
+<!-- What else do you need? -->
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I came to USA back in 2012 to work as a Life Guard at a public pool during the summer.
+However, I liked it so much here that I decided to stay, learn English and obtain the Higher Education.
+So, here I'm, graduating in Fall 2021 and trying to look for a place to implement what I've learned so far :-)
+<!-- To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.-->
+
