@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About me
-<!-- subtitle: Why you'd want to go on a date with me--> 
+subtitle: Mid Term Mini project - (Adv) Web Programming Course
+# <!-- Why you'd want to go on a date with me--> 
 ---
 
 My name is Petro Skrypnyk

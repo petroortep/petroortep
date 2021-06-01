@@ -15,6 +15,25 @@ This section depicts my skill set:
 > * Effective written and verbal communication
 > * Clear understanding and practical experience in using  
 **agile software** development technique, **scrum framework** in particular
+
+Education:  
+> B.S. in Computer Science at Rowan University, Glassboro, NJ  
+Graduating on December 2021
+
+Work Experience:
+> Database Administrator at Cars of North East Corp, Trevose, PA  
+January – July 2020   
+
+Projects:
+> Object-oriented programing in C++, Java (SE) to create simulations:   
+&nbsp; &nbsp; Drink Machine and  Taxi Ride  
+> Application  
+&nbsp; &nbsp; Sudoku game  
+> Python Trojan Horse:  
+&nbsp; &nbsp; Group project at Software Engineering class  
+&nbsp; &nbsp; sponsored by ASRC Federal Mission Solutions
+
+
 <!-- This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc. -->  
 
 <!-- 
