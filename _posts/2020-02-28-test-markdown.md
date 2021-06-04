@@ -27,10 +27,10 @@ January – July 2020
 Projects:
 > Object-oriented programing in C++, Java (SE) to create simulations:
   
-&nbsp; &nbsp; **Drink Machine**  
+> &nbsp; &nbsp; **Drink Machine**  
 ![Drink Machine Screenshot](/assets/img/DrinkMachine_ScreenShot.png)
 
-&nbsp; &nbsp; **Taxi Ride**  
+> &nbsp; &nbsp; **Taxi Ride**  
 ![Taxi Ride Screen Shot](/assets/img/Taxi_screen.png)
 
 > Application:  
