@@ -16,11 +16,11 @@ author: Petro Skrypnyk
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Jekyll Development: "https://jekyllrb.com/docs/step-by-step/01-setup/"
-    - Github Pages: "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site"
+  #Resources:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+   # - Jekyll Development: "https://jekyllrb.com/docs/step-by-step/01-setup/"
+   # - Github Pages: "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site"
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -30,7 +30,7 @@ navbar-links:
 # avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
