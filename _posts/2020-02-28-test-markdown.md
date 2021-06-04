@@ -26,13 +26,14 @@ January – July 2020
 
 Projects:
 > Object-oriented programing in C++, Java (SE) to create simulations:   
-&nbsp; &nbsp; Drink Machine and  Taxi Ride  
-> Application  
-&nbsp; &nbsp; Sudoku game  
+&nbsp; &nbsp; Drink Machine ([Drink Machine Screenshot](/assets/img/DrinkMachine_screen.png))  
+&nbsp; &nbsp; Taxi Ride ([Taxi Ride Screen Shot](/assets/img/Taxi_screen.png))  
+> Application:  
+&nbsp; &nbsp; Sudoku game ([Sudoku screenshot](/assets/img/Sudoku_screen.png))           
 > Python Trojan Horse:  
 &nbsp; &nbsp; Group project at Software Engineering class  
-&nbsp; &nbsp; sponsored by ASRC Federal Mission Solutions
-
+&nbsp; &nbsp; sponsored by ASRC Federal Mission Solutions  
+&nbsp; &nbsp; ([Trojan Horse Attack Flow Diagram Screen Shot](/assets/img/TrojanHorseAttackFlowDiagram_Screen.png))
 
 <!-- This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc. -->  
 
